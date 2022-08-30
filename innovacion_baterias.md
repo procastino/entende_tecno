@@ -7,4 +7,15 @@ Actualmente, a tecnoloxía máis empregada e desenvolta son as baterías de Ión
 Outra tecnoloxía que ten un gran potencial e xa se está a aplicar desde hai anos é o bombeo de agua. Esta técnica require que haxa dous depósitos de auga a distinto nivel. Cando exista unha sobreprodución de electricidade, esta se emprega para bombear auga ao depósito superior, de xeito que poida ser aproveitada nos períodos de escaseza para producir electricidade ao descender de novo ao depósito inferior. 
 ![Estación de bombeo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Pumpstor_racoon_mtn.jpg?20070913144453  "Estación de bombeo")
 Unha vez máis, esta é unha tecnoloxía estudada e relativamente eficiente, pero conta cun enorme inconvinte. Polo tremendo custo que implicaría unha obra desa envergadura, os depósitos teñen que aproveitar as condicións do relieve. Pódense aplicar en lugares nos que haxa un lago elevado, ou a posibilidade de facelo e, aínda nese caso, son infraestruturas enormes e custosas que requiren anos para completarse.
-Fonte: https://www.youtube.com/watch?v=-vobMl5ldOs
+## Un chisco de sal na túa rede
+Outra maneira prometedora de almacenar corrente vén dun material tan común como o sal. Aínda que todo o mundo o coñece no seu estado sólido, o sal fúndese a unha temperatura duns 500º. Unha vez en estado líquido, se o almacenamos en tanques ben illados, pode conservar esa calor durante horas. Se poñemos en contacto sal fundido con auga, xenérase vapor que pode mover unha turbina para conseguir electricidade, do mesmo xeito que nunha central térmica. Deste xeito, podemos empregar enerxías renovábeis para fundir o sal, cando estexan dispoñibles, e obter electricidade do sal fundido cando non teñamos sol nin vento. O gran inconvinte deste sistema é que, a día de hoxe, aínda é caro e precisa que a súa tecnoloxía mellore para conseguir ser realmente eficiente.
+## Como queima a area!
+Unha gran parte da demanda de electricidade é para producir calor, sexa nas calefaccións das nosas casas ou en complexos procesos industriais. É por iso que ás veces pode non máis interesante almacenar directamente esa calor e non electricidade para producila. Na cidade de Kankaanpää, en Finlandia, fan precisamente iso e, para conseguilo empregan enormes almacéns illados onde gardan un cento de toneladas de area moi quente, a case 600º. Cando a electricidade está dispoñible e barata, emprégana para quentar ese silo de area, que está conectado por tuberías de auga ao sistema de calefacción do pobo, incluíndo os edificios municipais e a piscina pública. Cando a electricidade é escasa, a gran capacidade térmica da area sirve para ter unha fonte de calor continua mesmo nun lugar tan frío como Finlandia.
+## E moitos máis...
+ Estas son só unhas poucas das opcións que hoxe se están a explorar no mundo para solucionar unha necesidade acuciante, o almacenamento de electricidade producida de xeito sostible para frear o cambio climático. Hai unha enorme cantidade de diñeiro e traballo dedicada a conseguilo e ninguén sabe cal será a solución definitiva, pero o futuro que veremos dependerá, en moita medida, dos logros que academos.
+## Entender
+- 
+## Elaborar
+## Investigar
+ 
+ Fonte: https://www.youtube.com/watch?v=-vobMl5ldOs
